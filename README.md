@@ -8,4 +8,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trouvaille0198&layout=compact&theme=onedark&hide=Jupyter%20Notebook,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/Trouvaille0198/Trouvaille0198/main/assets/github-contribution-grid-snake.svg)
